@@ -17,9 +17,9 @@ export default {
       antd: true,
       dva: false,
       dynamicImport: false,
-      title: 'section9-lab-react',
+      title: 'dns-info',
       dll: false,
-      
+
       routes: {
         exclude: [
           /components\//,
